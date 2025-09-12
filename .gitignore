@@ -17,7 +17,6 @@ venv/
 *.log
 
 # IDE
-.vscode/
 .idea/
 *.iml
 
@@ -25,3 +24,5 @@ venv/
 *.tmp
 *.bak
 .cache/
+config.bat
+node_modules
